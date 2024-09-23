@@ -1,0 +1,4 @@
+"Code";"Attribuutwaarde";"Definitie attribuutwaarde";"Herkomst definitie";"Inwinningscriteria";"Volledigheid";"Punt";"Lijn";"Vlak";"Datum vanaf";"Datum tot"
+"1";"NAP";"Normaal Amsterdams Peil.";"BRT";"-";"-";"ja";"ja";"nee";"01-01-2025";"-"
+"2";"LAT";"Lowest Astronomical Tide / Laagste Astronomisch Getij.";"BRT";"-";"-";"ja";"ja";"nee";"01-01-2025";"-"
+"3";"GHW";"Gemiddeld Hoog Water.";"BRT";"-";"-";"ja";"ja";"nee";"01-01-2025";"-"

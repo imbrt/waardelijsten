@@ -1,0 +1,7 @@
+"Code";"Attribuutwaarde";"Definitie attribuutwaarde";"Herkomst definitie";"Inwinningscriteria";"Volledigheid";"Punt";"Lijn";"Vlak";"Datum vanaf";"Datum tot"
+"1";"woonkern";"Bebouwingskern met hoofdzakelijk een woonfunctie, die tevens een bebouwde kom voor de Wegenverkeerswet is.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
+"2";"industriekern";"Bebouwingskern met hoofdzakelijk een bedrijfsmatige functie, zoals een bedrijventerrein, een haven of een vliegveld, voorzien van openbare wegen.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
+"3";"recreatiekern";"Bebouwingskern met hoofdzakelijk een (verblijfs)recreatieve functie, zoals een bungalowpark, voorzien van openbare wegen.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
+"4";"gehucht";"Kleine bebouwingskern of concentratie van aaneengesloten bebouwing, niet zijnde lintbebouwing, die geen bebouwde kom voor de Wegenverkeerswet vormt.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
+"5";"buurtschap";"Lintbebouwing of verspreid staande bebouwing in landelijk gebied met een zekere mate van sociale samenhang, die geen bebouwde kom voor de Wegenverkeerswet vormt.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
+"6";"historische bebouwingskern";"Historische bebouwingskern, ruimtelijk te onderscheiden van de omliggende bebouwing, gelegen binnen een bebouwde kom voor de Wegenverkeerswet van een andere plaats.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"

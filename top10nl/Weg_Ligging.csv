@@ -1,0 +1,8 @@
+"Code";"Attribuutwaarde";"Definitie attribuutwaarde";"Herkomst definitie";"Inwinningscriteria";"Volledigheid";"Punt";"Lijn";"Vlak";"Datum vanaf";"Datum tot"
+"1";"op vast deel van brug";"De weg is gelegen op een niet beweegbaar deel van een overbrugging.";"BRT";"-";"-";"nee";"ja";"ja";"01-01-2025";"-"
+"2";"op beweegbaar deel van brug";"De weg is gelegen op een beweegbaar deel van een overbrugging.";"BRT";"-";"-";"nee";"ja";"ja";"01-01-2025";"-"
+"3";"op knooppuntverbinding";"De weg is gelegen op een verkeersknooppunt van autosnelwegen en/of autowegen.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
+"4";"op oprit / afrit";"De weg is onderdeel van een op- of afrit van een autosnelweg, autoweg of hoofdweg.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
+"5";"op overweg";"De weg is gelegen op een gelijkvloerse kruising van een wegdeel en een spoorbaan.";"BRT";"-";"-";"nee";"ja";"ja";"01-01-2025";"-"
+"6";"op rotonde";"De weg is geleden op een gelijkvloers kruispunt waar het verkeer in een rondgaande beweging wordt afgewikkeld en waar het verkeer op deze rotonde voorrang heeft.";"BRT";"-";"-";"nee";"ja";"ja";"01-01-2025";"-"
+"7";"in tunnel";"De weg is gelegen in een kunstmatig aangelegde, onderaardse kokervormige doorgang.";"BRT";"-";"-";"nee";"ja";"ja";"01-01-2025";"-"

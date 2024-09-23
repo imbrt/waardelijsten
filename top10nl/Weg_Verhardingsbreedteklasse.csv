@@ -1,0 +1,5 @@
+"Code";"Attribuutwaarde";"Definitie attribuutwaarde";"Herkomst definitie";"Inwinningscriteria";"Volledigheid";"Punt";"Lijn";"Vlak";"Datum vanaf";"Datum tot"
+"1";"> 7 meter";"De breedte van de verharding is 7 meter of meer.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
+"2";"4 - 7 meter";"De breedte van de verharding is tussen 4 en 7 meter.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
+"3";"2 - 4 meter";"De breedte van de verharding is tussen 2 en 4 meter.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
+"4";"< 2 meter";"De breedte van de verharding is smaller dan 2 meter.";"BRT";"-";"-";"nee";"ja";"nee";"01-01-2025";"-"
