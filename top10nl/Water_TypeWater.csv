@@ -5,5 +5,5 @@
 "4";"watervlakte";"Alle oppervlakken die vrij permanent met zoet water zijn bedekt. (zoals meer, plas, ven, vijver).";"BGT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
 "5";"water met riet";"Alle oppervlakken die vrij permanent met zoet water zijn bedekt en begroeid zijn met riet.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
 "6";"droogvallend";"Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen, begrensd door de lijnen gemiddeld hoog water en gemiddeld laag water.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
-"7";"droogvallend (LAT)";"Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen, begrensd door de lijnen gemiddeld laag water en laagste astromnomisch getij (LAT).";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
+"7";"droogvallend (LAT)";"Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen, begrensd door de lijnen gemiddeld laag water en laagste astronomisch getij (LAT).";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
 "8";"zee";"Uitgestrekt oppervlak zout water.";"BGT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
