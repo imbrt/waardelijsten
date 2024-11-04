@@ -4624,7 +4624,7 @@ Waardelijst "TypeWater"
 | Waardelijst | TypeWater |
 |:---|:---|
 | Attribuutwaarde | **droogvallend (LAT)** |
-| Definitie attribuutwaarde | Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen, begrensd door de lijnen gemiddeld laag water en laagste astromnomisch getij (LAT). |
+| Definitie attribuutwaarde | Geheel of gedeeltelijk droogvallende gronden, buitendijks gelegen, begrensd door de lijnen gemiddeld laag water en laagste astronomisch getij (LAT). |
 | Herkomst definitie | BRT |
 | Punt | nee |
 | Lijn | nee |
