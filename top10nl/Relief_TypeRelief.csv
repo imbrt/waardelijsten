@@ -1,4 +1,4 @@
-"Code";"Attribuutwaarde";"Definitie attribuutwaarde";"Herkomst definitie";"Inwinningscriteria";"Volledigheid";"Punt";"Lijn";"Vlak";"Datum vanaf";"Datum tot"
-"1";"wal";"Langgerekte ophoging in het terrein met een hoogte tussen 0,50 en 1,00 meter.";"BRT";"-";"-";"nee";"ja";"nee";"01-01-2025";"-"
-"2";"steile rand, aardrand";"Plotselinge terreinverheffing of inzinking.";"BRT";"-";"-";"nee";"ja";"nee";"01-01-2025";"-"
-"3";"talud, hoogteverschil";"Schuinte van het zijvlak van aardwerken, dijken, spoorbanen of vestingwerken (talud). / Plaatselijk glooiende terreinverheffing of -inzinking (hoogteverschil).";"BRT";"-";"-";"nee";"ja";"nee";"01-01-2025";"-"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"1","wal","Langgerekte ophoging in het terrein met een hoogte tussen 0,50 en 1,00 meter.","BRT","-","-","nee","ja","nee","01-01-2026","-"
+"2","steile rand, aardrand","Plotselinge terreinverheffing of inzinking.","BRT","-","-","nee","ja","nee","01-01-2026","-"
+"3","talud, hoogteverschil","Schuinte van het zijvlak van aardwerken, dijken, spoorbanen of vestingwerken (talud). / Plaatselijk glooiende terreinverheffing of -inzinking (hoogteverschil).","BRT","-","-","nee","ja","nee","01-01-2026","-"

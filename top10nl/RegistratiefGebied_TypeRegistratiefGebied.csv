@@ -1,5 +1,0 @@
-"Code";"Attribuutwaarde";"Definitie attribuutwaarde";"Herkomst definitie";"Inwinningscriteria";"Volledigheid";"Punt";"Lijn";"Vlak";"Datum vanaf";"Datum tot"
-"1";"land";"Begrenzing van Nederland, begrenst door België, Duitsland en de Territoriale Zee (12-mijls zone).";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
-"2";"provincie";"Staatkundig onderdeel van Nederland met een eigen bestuur, tussen de nationale en gemeentelijke bestuurslaag in.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
-"3";"gemeente";"Zelfstandig, zelfbestuur en autonomie bezittend onderdeel van de staat Nederland, onder het bestuur van een raad, een burgemeester en wethouders.";"BRT";"-";"-";"nee";"nee";"ja";"01-01-2025";"-"
-"4";"maritieme zone";"Een bestuurlijk gebied op zee, vastgesteld door de Dienst der Hydrografie van het Ministerie van Defensie.";"BRT";"In de BRT worden de volgende maritieme zone's opgenomen: de Territoriale Zee en de Exclusieve Economische Zone. De Territoriale Zee sluit aan op het land 'Nederland' (geen overlap).";"-";"nee";"nee";"ja";"01-01-2025";"-"
