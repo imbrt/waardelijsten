@@ -1,3 +1,3 @@
 "Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
-"1","op brug","De bodem is gelegen op een overbrugging.","BRT","-","-","nee","nee","ja","01-01-2026","-"
-"2","in tunnel","De bodem is gelegen in een kunstmatig aangelegde, onderaardse kokervormige doorgang.","BRT","-","-","nee","nee","ja","01-01-2026","-"
+"op brug","op brug","De bodem is gelegen op een overbrugging.","BRT","-","-","nee","nee","ja","01-01-2026","-"
+"in tunnel","in tunnel","De bodem is gelegen in een kunstmatig aangelegde, onderaardse kokervormige doorgang.","BRT","-","-","nee","nee","ja","01-01-2026","-"
