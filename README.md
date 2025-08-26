@@ -4,7 +4,8 @@
 
 Repository met waardelijsten behorende bij het nieuwe Informatiemodel BRT in [imbrt/imbrt](https://github.com/imbrt/imbrt).
 
-Bij het Informatiemodel hoort ook een nieuwe [BRT Catalogus](https://imbrt.github.io/imbrt/).
+Bij het Informatiemodel hoort ook een nieuwe [BRT Catalogus](https://imbrt.github.io/imbrt/).<br>
+Meer informatie over de BRT kan gelezen worden in de [BRT Praktijkhandleiding](https://imbrt.github.io/praktijkhandleiding/).
 
 ### _Licentie_
 Deze website is een uitgave van het het programma _Visie Topografie / BRT.Next_ van het Kadaster.<br>
