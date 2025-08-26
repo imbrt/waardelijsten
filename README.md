@@ -1,10 +1,10 @@
 ![](docs/images/kadaster.svg)
 
-# Waardelijsten BRT
+# BRT Waardelijsten
 
-Repository met waardelijsten behorende bij het nieuwe Informatiemodel BRT in [imbrt/imbrt](https://github.com/imbrt/imbrt).
+Repository met waardelijsten behorende bij het nieuwe BRT Informatiemodel in [imbrt/imbrt](https://github.com/imbrt/imbrt).
 
-Bij het Informatiemodel hoort ook een nieuwe [BRT Catalogus](https://imbrt.github.io/imbrt/).<br>
+Bij het informatiemodel hoort ook een nieuwe [BRT Catalogus](https://imbrt.github.io/imbrt/).<br>
 Meer informatie over de BRT kan gelezen worden in de [BRT Praktijkhandleiding](https://imbrt.github.io/praktijkhandleiding/).
 
 ### _Licentie_
