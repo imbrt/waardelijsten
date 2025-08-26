@@ -1,5 +1,5 @@
 "Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
-"basaltblokken, steenglooiing","basaltblokken, steenglooiing","Dijkversteviging m.b.v. stenen, tegels, basaltblokken, stortsteen (geen asfalt of bitumen) of een golfslagbreker, stroombreker of strekdam langs de kust en in rivieren.","BRT","-","-","nee","nee","ja","01-01-2026","-"
 "erf","erf","Terreindeel dat bij een pand of overig bouwwerk hoort, dat niet nader wordt ingewonnen en dat bestaat uit een mengvorm van begroeiing, verharding, en/of water.","BGT","-","-","nee","nee","ja","01-01-2026","-"
+"steenglooiing","steenglooiing","Dijkversteviging m.b.v. stenen, tegels, basaltblokken, stortsteen (geen asfalt of bitumen) of een golfslagbreker, stroombreker of strekdam langs de kust en in rivieren.","BRT","-","-","nee","nee","ja","01-01-2026","-"
 "zand","zand","Terreindeel dat grotendeels bedekt is met zand.","BGT","-","-","nee","nee","ja","01-01-2026","-"
 "ongeclassificeerd","ongeclassificeerd","Het typeBodem is anders dan de beschikbare attribuutwaarden.","BRT","-","-","nee","nee","ja","01-01-2026","-"
