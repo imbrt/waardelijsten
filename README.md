@@ -1,6 +1,6 @@
 ![](docs/images/kadaster.svg)
 
-# BRT Waardelijsten
+# Basisregistratie Topografie Waardelijsten
 
 Repository met waardelijsten behorende bij het nieuwe BRT Informatiemodel in [imbrt/imbrt](https://github.com/imbrt/imbrt).
 
