@@ -6,7 +6,7 @@
 "dok","dok","Constructie bedoeld om schepen uit het water te halen en vervolgens weer in het water te laten.","SOR","-","-","nee","nee","ja","01-01-2026","-"
 "gedenkteken, monument","gedenkteken, monument","Topografisch object ter nagedachtenis van een belangrijke persoon of gebeurtenis.","BRT","-","-","ja","nee","nee","01-01-2026","-"
 "geluidsscherm","geluidsscherm","Een scheiding bedoeld om geluidshinder in de buitenlucht te verminderen.","BGT","-","-","nee","ja","nee","01-01-2026","-"
-"GNSS kernnetpunt","GNSS kernnetpunt","Punt geschikt voor GNSS-metingen (kan een steen of bout zijn).","BRT","-","-","ja","nee","nee","01-01-2026","-"
+"GNSS kernnetpunt","GNSS kernnetpunt","Punt geschikt voor GNSS-metingen (kan een steen of bout zijn).","BRT","De hoogte van een GNSS kernnetpunt is gegeven t.o.v. NAP.","-","ja","nee","nee","01-01-2026","-"
 "grenspunt","grenspunt","Aanduiding van een grensscheiding.","BRT","-","-","ja","nee","nee","01-01-2026","-"
 "hek","hek","Begrenzing van een terrein in de vorm van een afrastering.","BRT","-","-","nee","ja","nee","01-01-2026","-"
 "hunebed","hunebed","Voorhistorische begraafplaats, bestaande uit opgestapelde, reusachtige stenen.","BRT","-","-","ja","nee","nee","01-01-2026","-"
