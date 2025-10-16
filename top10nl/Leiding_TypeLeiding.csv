@@ -1,3 +1,3 @@
 "Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "hoogspanningsleiding","hoogspanningsleiding","Geleidedraden voor het transport van elektriciteit met een hoog voltage, ondersteund door hoogspanningsmasten.","BRT","-","-","nee","ja","nee","01-01-2026","-"
-"ongeclassificeerd","ongeclassificeerd","Het typeLeiding is anders dan de beschikbare attribuutwaarden.","BRT","-","-","ja","ja","nee","01-01-2026","-"
+"ongeclassificeerd","ongeclassificeerd","Het typeLeiding is anders dan de beschikbare attribuutwaarden.","BRT","-","-","nee","ja","nee","01-01-2026","-"

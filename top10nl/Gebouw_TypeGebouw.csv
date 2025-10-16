@@ -30,4 +30,4 @@
 "waterwoning","waterwoning","Drijvende bebouwing met de uiterlijke kenmerken van een huis en met een permanente (flexibele) verankering.","BRT","Woonboten worden, ongeacht de verschijningsvorm, niet ingewonnen.","-","nee","nee","ja","01-01-2026","-"
 "windmolen","windmolen","Boven de omgeving uitstekend bouwwerk in hout of steen dat bovenaan voorzien is van door de wind bewogen wieken die op hun beurt een inwendig mechanisme in werking stellen.","BRT","-","-","nee","nee","ja","01-01-2026","-"
 "windturbine","windturbine","Turbine waarin winddruk omgezet wordt in mechanische energie.","BGT","-","-","nee","nee","ja","01-01-2026","-"
-"ongeclassificeerd","ongeclassificeerd","Het typeGebouw is anders dan de beschikbare attribuutwaarden.","BRT","-","-","nee","nee","ja","01-01-2026","-"
+"ongeclassificeerd","ongeclassificeerd","Het typeGebouw is anders dan de beschikbare attribuutwaarden.","BRT","-","-","ja","nee","ja","01-01-2026","-"

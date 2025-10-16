@@ -19,4 +19,4 @@
 "naaldbos","naaldbos","Terreindeel begroeid met een dusdanige aantal naaldbomen dat deze een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen.","BGT","-","-","nee","nee","ja","01-01-2026","-"
 "rietland","rietland","Terreindeel overwegend begroeid met rietvegetatie.","BGT","-","-","nee","nee","ja","01-01-2026","-"
 "struiken","struiken","Terreindeel bedekt met niet-gecultiveerde (natuurlijke), lage, houtachtige, overblijvende planten gekenmerkt door verschillende vertakkingen dicht bij de wortel en afwezigheid van opvallende stammen.","BGT","-","-","nee","nee","ja","01-01-2026","-"
-"ongeclassificeerd","ongeclassificeerd","Het typeBegroeiing is anders dan de beschikbare attribuutwaarden.","BRT","-","-","nee","nee","ja","01-01-2026","-"
+"ongeclassificeerd","ongeclassificeerd","Het typeBegroeiing is anders dan de beschikbare attribuutwaarden.","BRT","-","-","ja","ja","ja","01-01-2026","-"
