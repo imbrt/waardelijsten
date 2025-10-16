@@ -1,6 +1,6 @@
 "Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "affakkeltoren","affakkeltoren","Installatie om brandbare gassen veilig af te voeren en te verbranden.","BRT","-","-","ja","nee","nee","01-01-2026","-"
-"baken","baken","Merkteken dat de loop van een vaargeul markeert of als baak op het land dienst doet voor de scheepvaart.","BRT","Drijvende bakens worden niet ingewonnen.","-","ja","nee","nee","01-01-2026","-"
+"baken","baken","Merkteken dat de loop van een vaargeul markeert of als baak op het land dienst doet voor de scheepvaart.","BRT","-","-","ja","nee","nee","01-01-2026","-"
 "bezinkbak","bezinkbak","Een gesloten reservoir waarin het afvalwater tijdelijk wordt opgevangen met een slibreinigende voorziening.","BGT","-","-","nee","nee","ja","01-01-2026","-"
 "calamiteitendoorgang","calamiteitendoorgang","Doorgang in de verkeersgeleider of wegafsluiting die hulpdiensten doorgang moet verlenen voor het bestrijden van calamiteiten.","BRT","-","-","nee","ja","nee","01-01-2026","-"
 "dok","dok","Constructie bedoeld om schepen uit het water te halen en vervolgens weer in het water te laten.","SOR","-","-","nee","nee","ja","01-01-2026","-"
