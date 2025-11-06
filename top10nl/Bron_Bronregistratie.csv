@@ -1,6 +1,6 @@
 "Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "BAG","BAG","Basisregistratie Adressen en gebouwen.","BAG","-","-","-","-","-","01-01-2026","-"
 "BGT","BGT","Basisregistratie Grootschalige Topografie.","BGT","-","-","-","-","-","01-01-2026","-"
-"BRK","BRK","Basisregistratie Kadaster.","BRK","-","-","-","-","-","01-01-2026","-"
+"Bestuurlijke Gebieden","Bestuurlijke Gebieden","Bestuurlijke Gebieden, afgeleid uit de BRK.","Bestuurlijke Gebieden","-","-","-","-","-","01-01-2026","-"
 "Eigen inwinning","Eigen inwinning","Eigen inwinning voor de BRT door het Kadaster.","BRT","-","-","-","-","-","01-01-2026","-"
 "TOP10NL","TOP10NL","Laatste versie van TOP10NL, gebruikt in de initiële vulling van de nieuwe BRT.","BRT","-","-","-","-","-","01-01-2026","-"
