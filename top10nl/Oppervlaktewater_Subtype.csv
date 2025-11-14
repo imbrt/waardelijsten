@@ -1,0 +1,7 @@
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"beek","beek","Een smalle natuurlijke waterloop die uit een bron of bronachtig gebied ontspringt en stroomafwaarts vloeit.","BRT","-","-","nee","ja","ja","01-01-2026","-"
+"gracht","gracht","Een door mensen gegraven waterloop in steden of rond vestingen, die kan dienen voor afwatering, transport en/of verdediging.","BRT","-","-","nee","ja","ja","01-01-2026","-"
+"kanaal","kanaal","Een door mensen gegraven brede waterloop bedoeld voor scheepvaart en/of watertransport.","BRT","-","-","nee","ja","ja","01-01-2026","-"
+"kreek","kreek","Een kleine natuurlijke waterloop in begroeid gebied, staand onder invloed van getij.","BRT","-","-","nee","ja","ja","01-01-2026","-"
+"rivier","rivier","Een brede natuurlijke waterloop die de afwatering van een stroomgebied verzorgt.","BRT","-","-","nee","ja","ja","01-01-2026","-"
+"sloot","sloot","Een door mensen gegraven smalle waterloop voornamelijk bedoeld voor de lokale waterhuishouding.","BRT","-","-","nee","ja","ja","01-01-2026","-"

@@ -15,4 +15,4 @@
 "veerverbinding","veerverbinding","Vastgelegde route over water om voertuigen en personen over te zetten al dan niet op basis van een vaste dienstregeling.","BRT","-","-","nee","ja","nee","01-01-2026","-"
 "fietsveer","fietsveer","Vastgelegde route over water om fietsers en voetgangers over te zetten al dan niet op basis van een vaste dienstregeling.","BRT","-","-","nee","ja","nee","01-01-2026","-"
 "voetveer","voetveer","Vastgelegde route over water om voetgangers over te zetten al dan niet op basis van een vaste dienstregeling.","BRT","-","-","nee","ja","nee","01-01-2026","-"
-"ongeclassificeerd","ongeclassificeerd","Het typeWeg is anders dan de beschikbare attribuutwaarden.","BRT","-","-","nee","nee","ja","01-01-2026","-"
+"ongeclassificeerd","ongeclassificeerd","Het typeWeg is anders dan de beschikbare attribuutwaarden.","BRT","-","-","nee","ja","ja","01-01-2026","-"
