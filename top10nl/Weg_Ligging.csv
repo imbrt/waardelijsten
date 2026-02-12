@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "op vast deel van brug","op vast deel van brug","De weg is gelegen op een niet beweegbaar deel van een overbrugging.","BRT","-","-","nee","ja","ja","01-01-2026","-"
 "op beweegbaar deel van brug","op beweegbaar deel van brug","De weg is gelegen op een beweegbaar deel van een overbrugging.","BRT","-","-","nee","ja","ja","01-01-2026","-"
 "op knooppuntverbinding","op knooppuntverbinding","De weg is gelegen op een verkeersknooppunt van autosnelwegen en/of autowegen.","BRT","-","-","nee","nee","ja","01-01-2026","-"

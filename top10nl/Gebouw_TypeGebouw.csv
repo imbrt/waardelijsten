@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "botenhuis","botenhuis","Gebouw boven het water voor de opslag van een of meer boten.","BRT","-","-","nee","nee","ja","01-01-2026","-"
 "bunker","bunker","Versterkte (schuil)plaats te gebruiken in tijden van oorlog of ramp zowel voor burger- als militaire doeleinden. Kan ook (gedeeltelijk) ondergronds gelegen zijn.","BRT","-","-","ja","nee","ja","01-01-2026","-"
 "kapel","kapel","Gebouw van beperkte omvang ingericht als bidruimte.","BRT","-","-","ja","nee","ja","01-01-2026","-"

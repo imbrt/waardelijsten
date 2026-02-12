@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "bezoekerscentrum","bezoekerscentrum","Een publiek gebouw waar informatie aangeboden wordt aan bezoekers.","BRT","-","-","ja","nee","ja","01-01-2026","-"
 "brandweerkazerne","brandweerkazerne","Gebouw voor het stationeren van materieel en manschappen t.b.v. brandbestrijding.","BRT","-","-","ja","nee","ja","01-01-2026","-"
 "crematorium","crematorium","Gebouw dat dient voor lijkverbranding en uitvaartplechtigheden.","BRT","-","-","ja","nee","ja","01-01-2026","-"

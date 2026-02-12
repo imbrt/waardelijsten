@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "0,5 - 3 meter","0,5 - 3 meter","De breedte van het water is groter dan of gelijk aan 0,5 meter en minder dan 3 meter.","BRT","-","-","nee","ja","nee","01-01-2026","-"
 "3 - 6 meter","3 - 6 meter","De breedte van het water is groter dan of gelijk aan 3 meter en minder dan 6 meter.","BRT","-","-","nee","nee","ja","01-01-2026","-"
 "6 - 12 meter","6 - 12 meter","De breedte van het water is groter dan of gelijk aan 6 meter en minder dan 12 meter.","BRT","-","-","nee","nee","ja","01-01-2026","-"

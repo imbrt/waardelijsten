@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "verhard","verhard","Een weg met een egale verharding (bijvoorbeeld asfalt, beton, klinkers, tegels of keien).","BRT","-","-","nee","ja","ja","01-01-2026","-"
 "half verhard","half verhard","Een weg waarop de verharding slechts gedeeltelijk is aangebracht (bijvoorbeeld als twee banen met klinkers, beton, tegels of uitsluitend groenstenen) of het rijvlak is verbeterd met grind of sintels.","BRT","-","-","nee","ja","ja","01-01-2026","-"
 "onverhard","onverhard","Een weg zonder enige vorm van kunstmatige verharding, dan wel een weg hier en daar opgevuld met puin.","BRT","-","-","nee","ja","ja","01-01-2026","-"

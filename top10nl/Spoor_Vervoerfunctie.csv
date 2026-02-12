@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "personenvervoer","personenvervoer","Spoor, alleen bestemd voor personenvervoer.","BRT","-","-","nee","ja","nee","01-01-2026","-"
 "goederenvervoer","goederenvervoer","Spoor, alleen bestemd voor goederenvervoer.","BRT","-","-","nee","ja","nee","01-01-2026","-"
 "personen- en goederenvervoer","personen- en goederenvervoer","Spoor, zowel bestemd voor personen- als goederenvervoer.","BRT","-","-","nee","ja","nee","01-01-2026","-"
