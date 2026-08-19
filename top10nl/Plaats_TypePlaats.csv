@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "woonkern","woonkern","Bebouwingskern met hoofdzakelijk een woonfunctie, die tevens een bebouwde kom voor de Wegenverkeerswet is.","BRT","-","-","nee","nee","ja","01-01-2026","-"
 "industriekern","industriekern","Bebouwingskern met hoofdzakelijk een bedrijfsmatige functie, zoals een bedrijventerrein, een haven of een vliegveld, voorzien van openbare wegen.","BRT","-","-","nee","nee","ja","01-01-2026","-"
 "recreatiekern","recreatiekern","Bebouwingskern met hoofdzakelijk een (verblijfs)recreatieve functie, zoals een bungalowpark, voorzien van openbare wegen.","BRT","-","-","nee","nee","ja","01-01-2026","-"

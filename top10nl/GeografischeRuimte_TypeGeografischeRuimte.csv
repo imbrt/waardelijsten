@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "bosgebied","bosgebied","Met bos begroeid gebied.","BRT","-","-","nee","nee","ja","01-01-2026","-"
 "duingebied","duingebied","Heuvels van fijn zand, al dan niet begroeid met helmgras en struiken.","BRT","-","-","nee","nee","ja","01-01-2026","-"
 "eiland","eiland","Land, omgeven door water.","BRT","-","-","nee","nee","ja","01-01-2026","-"

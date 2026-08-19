@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "akkerland","akkerland","Terreindeel in gebruik als akker, met gewassen die in een teelt-roulatieschema zijn opgenomen. Kan tijdelijk zonder gewas zijn of braak liggen.","SOR","-","-","nee","nee","ja","01-01-2026","-"
 "bomenrij","bomenrij","Aantal bomen (minimaal 3) die in een rij staan, waarbij de onderlinge afstand tussen de bomen zodanig is dat de bomenrij tot manshoogte geen zichtbelemmering vormt.","BRT","-","-","nee","ja","nee","01-01-2026","-"
 "boom","boom","Houtachtig gewas met een enkele, stevige, houtige en overblijvende stam, die zich op een zekere hoogte boven de grond vertakt.","BRT","-","-","ja","nee","nee","01-01-2026","-"

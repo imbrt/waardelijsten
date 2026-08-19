@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "asielzoekerscentrum","asielzoekerscentrum","Een opvanglocatie voor asielzoekers die in Nederland verblijven.","BRT","-","-","nee","nee","ja","01-01-2026","-"
 "attractiepark","attractiepark","Terrein waar ter ontspanning en vermaak verscheidene attracties permanent zijn opgesteld.","BRT","-","-","nee","nee","ja","01-01-2026","-"
 "bedrijventerrein","bedrijventerrein","Het geheel aan gebouwen en terreinen ten behoeve van bedrijven en industrie, inclusief bijvoorbeeld toevoerwegen of tussengelegen water.","BRT","-","-","nee","nee","ja","01-01-2026","-"

@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "dieptelijn","dieptelijn","Lijn gevormd door punten met gelijke waterdiepte.","BRT","-","-","nee","ja","nee","01-01-2026","-"
 "dieptepunt","dieptepunt","Punt waarvan de waterdiepte bekend is ten opzichte van het referentievlak.","BRT","-","-","ja","nee","nee","01-01-2026","-"
 "hoogtelijn","hoogtelijn","Lijn die punten van gelijke hoogte met elkaar verbindt.","BRT","-","-","nee","ja","nee","01-01-2026","-"

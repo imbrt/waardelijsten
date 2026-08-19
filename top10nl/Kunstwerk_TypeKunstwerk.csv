@@ -1,4 +1,4 @@
-"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Inwinningscriteria","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
+"Code","Attribuutwaarde","Definitie attribuutwaarde","Herkomst definitie","Populatiebeschrijving","Volledigheid","Punt","Lijn","Vlak","Datum vanaf","Datum tot"
 "botenhelling","botenhelling","Voorziening om boten uit of in het water te helpen.","BRT","-","-","ja","nee","nee","01-01-2026","-"
 "dukdalf","dukdalf","In het water geplaatste, zware al dan niet metalen paal of constructie, dienend tot bescherming van bruggen en sluizen.","BRT","-","-","ja","nee","nee","01-01-2026","-"
 "hoogspanningsmast","hoogspanningsmast","Metalen mast of stellage ter ondersteuning van geleidedraden voor het transport van elektriciteit met een hoog voltage.","BGT","-","-","ja","nee","nee","01-01-2026","-"
